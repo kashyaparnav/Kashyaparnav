@@ -52,23 +52,26 @@ I enjoy turning ideas into working products — from AI agents and automation wo
 ## 💡 Featured Projects
 
 ### 🤖 Hiver
+
 AI-powered customer support agent designed to understand user intent, retrieve relevant historical conversations, generate intelligent responses, and escalate complex queries to humans.
 
 **Focus:** AI Agents • LLMs • RAG • Automation • Customer Support
 
 ---
 
-### 🌐 aitosite.ai
-An AI-focused product/startup initiative exploring how AI can be used to build practical tools and automated experiences.
+### 🧩 ai-template-editor
 
-**Focus:** AI • SaaS • Automation • Product Development
+A TypeScript-based template editor for creating and customizing AI-powered templates with a developer-friendly interface.
+
+**Tech:** TypeScript • React • Tailwind CSS • Vercel
 
 ---
 
-### 🏦 Banking.ai
-Worked on an AI-focused startup initiative aimed at building intelligent solutions for the banking and financial ecosystem.
+### 🔎 Linkedin-Scrapping-High-Level_
 
-**Focus:** AI • FinTech • Automation • Product Development
+A high-level LinkedIn scraping project focused on extracting profiles, posts, and relevant information for research, outreach, and data collection workflows.
+
+**Tech:** TypeScript • Node.js • Puppeteer • Data Extraction
 
 ---
 
@@ -94,7 +97,3 @@ AI Automation
 Full-Stack AI Applications
    ↓
 Production-ready AI Products
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
